@@ -4,3 +4,11 @@ git remote add ioc https://github.com/mrdhiraj/IOCPresentation.git
 
 git pull ioc gh-pages
 git pull reveal master
+
+
+
+npm install livereload
+livereload
+
+npm install http-server -g
+http-server
