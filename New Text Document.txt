@@ -1,0 +1,6 @@
+git remote add reveal https://github.com/hakimel/reveal.js.git
+git remote add ioc https://github.com/mrdhiraj/IOCPresentation.git
+
+
+git pull ioc gh-pages
+git pull reveal master
